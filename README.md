@@ -1,0 +1,1 @@
+# bilangan-terkecil-dari-3-bilangn-yang-diinput
